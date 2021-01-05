@@ -1,0 +1,2 @@
+# SaltyFishServer
+A minecraft server
